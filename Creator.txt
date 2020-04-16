@@ -2,6 +2,6 @@ Creators:B.Thilakmani,Yuvaraj,surya
 Objective:To create an awareness about clean india
 This was a project done for college by us.
 Languages used:HTML5,CSS3,Javascript
-Frameworks:Bootstrap
+Frameworks:Bootstrap, Jquery
 Hosted on:github pages.
-College:PSNACET,Dindigul
+College:PSNACET,Dindigul.
